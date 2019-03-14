@@ -1,4 +1,4 @@
-# Task 1: Data Collection
+# Assignment 0: Data Collection
 
 Data collection can be carried out without any restriction on programming languages (python is only a warm suggestion) and/or online sources.
 The use of already crawled network datasets available on the internet **will not** be considered as a valid option.
